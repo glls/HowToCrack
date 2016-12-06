@@ -16,7 +16,7 @@ replace JNE with NOP (2x)
 job done
 
 
-## links 
+## Links 
 The Art of Assembly Language Programming
 
 http://www.it.uom.gr/project/assembly/contents.htm
